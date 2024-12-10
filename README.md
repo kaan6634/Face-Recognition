@@ -8,3 +8,5 @@ To install the required library, use the following command:
 
 ```bash
 pip3 install face_recognition
+pip install opencv-python
+pip install numpy
