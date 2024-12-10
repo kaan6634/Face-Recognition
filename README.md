@@ -7,8 +7,11 @@ This project is designed to recognize faces using a webcam. A significant portio
 This project requires the following Python packages:
 
 numpy==1.26.4
+
 opencv-python==4.10.0.84
+
 face-recognition==1.3.0
+
 face_recognition_models==0.3.0
 
 ## Installation
