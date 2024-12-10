@@ -6,6 +6,8 @@ This project is designed to recognize faces using a webcam. A significant portio
 
 This project requires the following Python packages:
 
+Python == 3.12.4
+
 numpy==1.26.4
 
 opencv-python==4.10.0.84
