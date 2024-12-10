@@ -1,3 +1,5 @@
+pip3 install face_recognition
+
 # Face Recognition Project
 
 This project is designed to recognize faces using a webcam. A significant portion of the code is adapted from (https://github.com/ageitgey/face_recognition). 
