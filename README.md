@@ -2,7 +2,8 @@
 
 This project is designed to recognize faces using a webcam. A significant portion of the code is adapted from [ageitgey's face_recognition project](https://github.com/ageitgey/face_recognition).
 
-##Requirements
+## Requirements
+
 This project requires the following Python packages:
 
 numpy==1.26.4
