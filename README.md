@@ -24,3 +24,9 @@ To install the required library, use the following command:
 pip3 install face_recognition
 pip install opencv-python
 pip install numpy
+```
+
+### Install `setuptools`
+In some cases, missing the `setuptools` package can cause the error. Install it by running the following command:
+```bash
+pip install setuptools
